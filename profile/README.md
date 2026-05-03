@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://notchly.xyz"><strong>Website</strong></a>
   ·
-  <a href="https://releases.notchly.xyz/Notchly-1.0.1.dmg"><strong>Download for macOS</strong></a>
+  <a href="https://releases.notchly.xyz/Notchly-1.0.2.dmg"><strong>Download for macOS</strong></a>
   ·
   <a href="https://cdn.notchly.xyz/Notchly-Video-Preview.mp4"><strong>Video preview</strong></a>
 </p>
